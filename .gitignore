@@ -1,0 +1,13 @@
+
+# File need to ignore in commits
+main.py
+test101.csv
+steam_games.csv
+uv.lock
+
+# Virtual Environment
+.venv
+
+.python-version
+
+README.md
